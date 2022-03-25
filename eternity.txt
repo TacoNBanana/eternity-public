@@ -1,0 +1,5 @@
+"Eternity"
+{
+	"base"		"sandbox"
+	"title"		"Eternity - Halo"
+}
