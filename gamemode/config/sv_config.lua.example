@@ -1,0 +1,13 @@
+--[[
+USERGROUP_PLAYER
+USERGROUP_ADMIN
+USERGROUP_SUPERADMIN
+USERGROUP_DEV
+]]--
+GM.Config.PrivateMode = USERGROUP_ADMIN
+GM.Config.APIKey = ""
+
+GM.Config.Prometheus = {
+	Enabled = true,
+	ID = 4
+}

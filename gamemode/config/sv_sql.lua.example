@@ -1,0 +1,23 @@
+GM.Config.SQL = {
+	Host = "localhost",
+	User = "root",
+	Password = "",
+	DB = "eternity",
+	Port = 3306
+}
+
+GM.Config.GlobalSQL = {
+	Host = "localhost",
+	User = "root",
+	Password = "",
+	DB = "global",
+	Port = 3306
+}
+
+GM.Config.PrometheusSQL = {
+	Host = "localhost",
+	User = "root",
+	Password = "",
+	DB = "donate",
+	Port = 3306
+}
